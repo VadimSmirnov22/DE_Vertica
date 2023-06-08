@@ -14,4 +14,4 @@
 
 ### Использованные инструменты
 
-Python, Pandas , Airflow, Vertica, S3, json
+Python, PostgreSQL, Pandas , Airflow, Vertica, S3, json
